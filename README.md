@@ -18,7 +18,7 @@ Included documents;
   - Unity project files are not uploaded (big file size), you need to download "Oculus Integration" package from Asset store.
 
 Remark for Oculus hand model;
-When the Oculus hand model is downloaded, you will find the physical models under Assets>Oculus>VR>Prefabs>OVRCustomHandPrefab_R.prefab. This fbx file contains the mesh and pyhsical mdoel of a human hand, and there you will match the "Test.cs" script to this hand model (adjusting the joints with sensor data etc).
+  -When the Oculus hand model is downloaded, you will find the physical models under Assets>Oculus>VR>Prefabs>OVRCustomHandPrefab_R.prefab. This fbx file contains the mesh and pyhsical mdoel of a human hand, and there you will match the "Test.cs" script to this hand model (adjusting the joints with sensor data etc).
 
 Example Circuit;
 ![](Images/Circuit.png)
