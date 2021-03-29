@@ -3,7 +3,7 @@ using UnityEngine;
 using System.IO.Ports;
 public class Test : MonoBehaviour
 {
-    SerialPort data_stream = new SerialPort("COM3",9600); // PORTLARIN DATA AKTARMASINI BASLATIYOR
+    SerialPort data_stream = new SerialPort("COM3",9600); // PORT DATA TRANSFER
     public string receivedstring;
     public float sensitivity = 0.001f;
     public Transform b_r_index3, b_r_index2, b_r_index1;
