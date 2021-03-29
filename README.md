@@ -20,6 +20,8 @@ Included documents;
 Remark for Oculus hand model;
   - When the Oculus hand model is downloaded, you will find the physical models under Assets>Oculus>VR>Prefabs>OVRCustomHandPrefab_R.prefab. This fbx file contains the mesh and pyhsical mdoel of a human hand, and there you will match the "Test.cs" script to this hand model (adjusting the joints with sensor data etc).
 
+Example Set-up;
+![](Images/Hand_model.png)
 Example Circuit;
 ![](Images/Circuit.png)
 
