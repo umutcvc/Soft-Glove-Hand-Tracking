@@ -4,10 +4,10 @@ A simple application where you can adapt a serial data transfer from arduino to 
 
 Required hardwares;
   - Flex sensor.
-  - Glove (x2)
-  - Arduino
-  - Resistance (10K)
-  - Jumper cables
+  - Glove (x2).
+  - Arduino.
+  - Resistance (10K).
+  - Jumper cables.
   
 Included documents;
   - Arduino script sensor data.
@@ -15,4 +15,4 @@ Included documents;
   - Unity project files.
 
 Youtube video;
-x
+xxx
