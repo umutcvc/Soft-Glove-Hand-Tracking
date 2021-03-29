@@ -27,4 +27,4 @@ Example Circuit;
 ![](Images/Circuit.png)
 
 Youtube video;
-https://youtu.be/zSWKhY027Yw
+https://youtu.be/dep11Uyu_lM
