@@ -8,6 +8,9 @@ Required hardwares;
   - Arduino.
   - Resistance (10K).
   - Jumper cables.
+
+Required Unity packages;
+  - Oculus integration.
   
 Included documents;
   - Arduino script sensor data.
