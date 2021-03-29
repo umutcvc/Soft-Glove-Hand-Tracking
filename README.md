@@ -27,4 +27,4 @@ Example Circuit;
 ![](Images/Circuit.png)
 
 Youtube video;
-xxx
+https://youtu.be/zSWKhY027Yw
